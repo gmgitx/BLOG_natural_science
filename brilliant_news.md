@@ -23,7 +23,7 @@ alerts@aaas.sciencepubs.org
 News from Science: Weekly Headlines  
   
 **微信公众号**  
-\#研圈  
+\#科研圈  
 science一周论文导读  
 nature一周论文导读  
   
