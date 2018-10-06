@@ -1,4 +1,4 @@
-\###nature  
+\###*nature*  
 Nature_News@ealert.nature.com   
 Nature Briefing  
 Nature News Alert  
