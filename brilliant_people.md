@@ -5,3 +5,7 @@
 \#发现：snakemake paper   
 \#关注理由：牛   
 [Dr. Johannes Köster](https://johanneskoester.bitbucket.io/#about)    
+
+\#发现：寻找你不知道的美国留学  
+\#关注理由：饱读诗书   
+[dawang](https://github.com/wdxtub)    
