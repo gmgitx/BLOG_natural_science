@@ -9,3 +9,9 @@
 \#发现：寻找你不知道的美国留学  
 \#关注理由：饱读诗书   
 [dawang](https://github.com/wdxtub)    
+
+\#发现：日本人的follow  
+\#关注理由：网页眼前一亮    
+[Zach Kinstner](http://aestheticinteractive.com/#/)    
+
+
